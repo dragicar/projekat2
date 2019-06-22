@@ -13,7 +13,7 @@ h3{
 }
 
 
-.inp{
+.input{
     text-align: center;
 }
 input{
@@ -49,13 +49,11 @@ li {
     border: 1px solid #2600ff;
     text-align: left;
     margin-top: 4px;
-    width: 85%;
-   
+    width: 85%;   
 }
+
 ul {
-    padding: 5px;
-    
-    
+    padding: 5px;    
 }
 
 .close{
@@ -66,15 +64,12 @@ ul {
     color: white;
     background-color: magenta;
     border-radius: 10px;
-    padding: 15px;
-   
-    
-
-    
+    padding: 10px;
+      
 }
 
 li.checked{
     text-decoration: line-through;
-    color:#2600ff;
+    color:magenta;
     
 }
